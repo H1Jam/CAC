@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-	cout << "23232";
+	cout << "232324";
 	getchar();
     return 0;
 }
